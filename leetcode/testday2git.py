@@ -1,0 +1,1 @@
+# this is a test for day2, to make sure how my git is setup for the leetcode git
